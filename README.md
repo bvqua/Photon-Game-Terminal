@@ -1,4 +1,5 @@
 # team-12
+This was NOT an individual project. This project was done in a team of 5.
 
 # How to launch project
 
@@ -23,10 +24,8 @@ pip install pygame
 python3 main.py
 ```
 
-# Github usernames to real names:
+# Github usernames to real names (My partners):
 Matthew-Cool -> Matthew Wilkinson
-
-bvqua12 -> Brian Quach
 
 joshiosimoe -> Joshua Yustana
 
